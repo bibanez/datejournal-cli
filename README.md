@@ -10,9 +10,11 @@ journal [DATE]
 If no arguments are passed, the entry with the current date will be opened.
 
 ## Installation
-`git clone https://github.com/bibanez/journal-cli.git`
-`cd journal-cli`
-`chmod +x journal.sh`
+1. `git clone https://github.com/bibanez/journal-cli.git`
+
+2. `cd journal-cli`
+
+3. `chmod +x journal.sh`
 
 Then execute the program with `./journal.sh` or add the following alias to your `.bashrc` file:
 
